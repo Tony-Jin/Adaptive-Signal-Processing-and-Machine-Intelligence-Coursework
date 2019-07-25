@@ -1,0 +1,3 @@
+include requirements.txt
+include coursework/data/ETH80/*.csv
+include coursework/data/ETH80/original/*.npz
